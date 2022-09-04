@@ -5,6 +5,8 @@
 ![IntellijIdea](https://img.shields.io/badge/-IntellijIdea-090909?style=for-the-badge&logo=IntellijIdea&logoColor=0493d3)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=brightgreen)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=Jenkins)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0493d3)
+
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0187E8)](https://www.linkedin.com/in/artiom-lagun-73b692210/)
