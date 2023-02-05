@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hello I'm a QA/AQA
+   Hello I'm a Artiom - QA Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
@@ -12,20 +12,20 @@
   </a>
 </div>
 
-
 ### :hammer_and_wrench: Languages & Tools :
+   
    <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/aliesbelik/awesome-jmeter/blob/main/assets/images/jmeter-logo.svg" title="Java" alt="Java" width="150" height="50"/>&nbsp;
-   <img src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="50" height="50" alt="IDEA">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50" alt="JAVA">
+   <img src="https://github.com/selenide/selenide-site-ng/blob/gh-pages/logo/logo_icon_white_128x128.png" width="50" height="50" alt="SELENIDE">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="50" height="50" alt="SELENIUM">
+   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" alt="JUNIT 5">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="JENKINS">
+   <img src="https://github.com/aliesbelik/awesome-jmeter/blob/main/assets/images/jmeter-logo.svg" width="150" height="50" alt="JMETER">
+   <img src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg" width="50" height="50" alt="POSTMAN">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="50" height="50" alt="JIRA">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="GIT">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="FIGMA">
    </div>
    </div>
+ 
